@@ -2,7 +2,7 @@
 <head>
 	<title>NO.4</title>
 </head>	
-<body bgcolor="litblue">
+<body bgcolor="red">
 <center><h1>No.4</h1>
 <?php
 function no4(){
